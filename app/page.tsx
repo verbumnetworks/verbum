@@ -20,7 +20,6 @@ export default function Home() {
       <BlogSection />
       <Contact />
       <NewsletterCTA/>
-      <Footer/>
     </main>
   );
 }
